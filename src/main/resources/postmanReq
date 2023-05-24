@@ -1,0 +1,10 @@
+{
+    "amount": "4512",
+    "processingCode": "310000",
+    "pan": "1234567893698521",
+    "rrn": "787878787878",
+    "customerDetails": {
+        "name": "Rohit sen",
+        "address": " bhubaneswar odisha"
+    }
+}
